@@ -8,6 +8,8 @@
 - 根据code返回前端验证情况
 
 
-### 调用关系为下图
-
+### 调用关系为下图 
 <img src="assets/图形验证流程.png" width="180px">
+
+### QQ 群
+<img src="assets/4db8245ecc416b364ff05217a16f644.png" width="180px">
